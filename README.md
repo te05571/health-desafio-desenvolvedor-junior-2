@@ -150,9 +150,9 @@ $ /novo
 
 
 ## Author
-Dgley Ramos
+Victor Samuel
 [LinkedIn]([https://www.linkedin.com/in/dgleyramos/](https://www.linkedin.com/in/victor-samuel-34939a1b9/))
 
-<p><a href="[https://www.buymeacoffee.com/dgleyramos](https://www.linkedin.com/in/victor-samuel-34939a1b9/)"> <img align="left" src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://media.licdn.com/dms/image/D4D16AQF24YKIlPqdDg/profile-displaybackgroundimage-shrink_350_1400/0/1684266907114?e=1692835200&v=beta&t=krc9vM9zWItO0WU111wZOKnJzETfiNbYM0RBQsR8Dyc)https://media.licdn.com/dms/image/D4D16AQF24YKIlPqdDg/profile-displaybackgroundimage-shrink_350_1400/0/1684266907114?e=1692835200&v=beta&t=krc9vM9zWItO0WU111wZOKnJzETfiNbYM0RBQsR8Dyc" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
+<p><a href="[https://www.buymeacoffee.com/dgleyramos](https://www.linkedin.com/in/victor-samuel-34939a1b9/)"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2F&psig=AOvVaw1IudadZadE6BCbnXzx5bui&ust=1687347358865000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCKr_Hg0f8CFQAAAAAdAAAAABAE" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
 
 
