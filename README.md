@@ -151,7 +151,7 @@ $ /novo
 
 ## Author
 Victor Samuel
-[LinkedIn]([https://www.linkedin.com/in/dgleyramos/](https://www.linkedin.com/in/victor-samuel-34939a1b9/))
+[LinkedIn]([[https://www.linkedin.com/in/dgleyramos/](https://www.linkedin.com/in/victor-samuel-34939a1b9)])
 
 <p><a href="[https://www.buymeacoffee.com/dgleyramos](https://www.linkedin.com/in/victor-samuel-34939a1b9/)"> <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2F&psig=AOvVaw1IudadZadE6BCbnXzx5bui&ust=1687347358865000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCKr_Hg0f8CFQAAAAAdAAAAABAE" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
 
