@@ -100,10 +100,10 @@ $ /api/pets/:id
 -	**phone**
 
 
-### 🎲 Rodando o Front End (client)
+Rodando o Front End
 
 <h4 align="center"> 
-	🚧  React Select 🚀 🚧
+	
 </h4>
 
 ```bash
