@@ -153,3 +153,6 @@ $ /novo
 Dgley Ramos
 [LinkedIn]([https://www.linkedin.com/in/dgleyramos/](https://www.linkedin.com/in/victor-samuel-34939a1b9/))
 
+<p><a href="[https://www.buymeacoffee.com/dgleyramos](https://www.linkedin.com/in/victor-samuel-34939a1b9/)"> <img align="left" src="[https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png](https://media.licdn.com/dms/image/D4D16AQF24YKIlPqdDg/profile-displaybackgroundimage-shrink_350_1400/0/1684266907114?e=1692835200&v=beta&t=krc9vM9zWItO0WU111wZOKnJzETfiNbYM0RBQsR8Dyc)https://media.licdn.com/dms/image/D4D16AQF24YKIlPqdDg/profile-displaybackgroundimage-shrink_350_1400/0/1684266907114?e=1692835200&v=beta&t=krc9vM9zWItO0WU111wZOKnJzETfiNbYM0RBQsR8Dyc" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
+
+
