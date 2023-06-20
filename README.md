@@ -151,7 +151,5 @@ $ /novo
 
 ## Author
 Dgley Ramos
-[LinkedIn](https://www.linkedin.com/in/dgleyramos/)
+[LinkedIn]([https://www.linkedin.com/in/dgleyramos/](https://www.linkedin.com/in/victor-samuel-34939a1b9/))
 
-
-<p><a href="https://www.buymeacoffee.com/dgleyramos"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dgleyramos" /></a></p><br><br>
