@@ -5,7 +5,7 @@
 
 <h3 align="center">Sobre</h3>
 
-<p align="center">Aplicação criada para solucionar desafio proposto como parte do processo seletivo, criar aplicação fullstack que liste, crie, atualize e delete animais de estimação de uma petshop</p>
+<p align="center">Aplicação criada para solucionar desafio proposto como parte do processo seletivo, criar aplicação fullstack que liste, crie, atualize e delete animais de uma petshop</p>
 
 ![Resumo](./tela_inicial.png)
 
@@ -128,7 +128,6 @@ $ yarn start
 -   **react-router-dom**
 -   **react-dom**
 
-> Veja o arquivo  [package.json](https://github.com/dgleyramos1/health-desafio-desenvolvedor-junior-2/blob/main/client/package.json)
 
 #### **Endpoints**
 
