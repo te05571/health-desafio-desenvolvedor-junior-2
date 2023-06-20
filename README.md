@@ -24,7 +24,7 @@
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/dgleyramos1/health-desafio-desenvolvedor-junior-2.git>
+$ git clone <https://github.com/te05571/health-desafio-desenvolvedor-junior-2>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd health-desafio-desenvolvedor-junior-2
@@ -146,9 +146,6 @@ $ /pets/:id
 # Página com formulário para cadastro de novos pets
 $ /novo
 ```
-
-
-
 ## Author
 Victor Samuel
 [LinkedIn](https://www.linkedin.com/in/dgleyramos/](https://www.linkedin.com/in/victor-samuel-34939a1b9)
