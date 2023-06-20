@@ -20,7 +20,7 @@
 - [x] Buscar todos os Pets
 - [x] Remover Pet
 
-### 🎲 Rodando o Back End (servidor)
+ Rodando o Back End 
 
 ```bash
 # Clone este repositório
