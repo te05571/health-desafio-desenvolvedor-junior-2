@@ -66,7 +66,6 @@ $ yarn migration:run
 -   **typeorm**
 -   **uuid**
 
-> Veja o arquivo  [package.json](https://github.com/dgleyramos1/health-desafio-desenvolvedor-junior-2/blob/main/package.json)
 
 #### **Endpoints**
 
